@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	. "github.com/hirochachacha/go-smb2/internal/erref"
+	. "github.com/whit3rabbit/go-smb2/internal/erref"
 )
 
 type TimeoutError struct {
